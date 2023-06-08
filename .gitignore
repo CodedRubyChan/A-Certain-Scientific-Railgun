@@ -4,3 +4,4 @@ log.txt
 game/audio/**
 game/videos/**
 game/saves/**
+game/cache/**
