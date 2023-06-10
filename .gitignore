@@ -5,3 +5,17 @@ game/audio/**
 game/videos/**
 game/saves/**
 game/cache/**
+**/**.rpyc
+**/**.rpymc
+game/debugmode.rpyc
+game/define_de.rpyc
+game/define_en.rpyc
+game/define.rpyc
+game/gui.rpyc
+.gitignore
+game/options.rpyc
+game/screens.rpyc
+game/script.rpyc
+game/de_scripts_ep0/ep0ch0.rpyc
+game/en_scripts_ep0/ep0ch0.rpyc
+game/tl/None/common.rpymc
