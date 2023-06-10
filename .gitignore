@@ -12,7 +12,6 @@ game/define_de.rpyc
 game/define_en.rpyc
 game/define.rpyc
 game/gui.rpyc
-.gitignore
 game/options.rpyc
 game/screens.rpyc
 game/script.rpyc
