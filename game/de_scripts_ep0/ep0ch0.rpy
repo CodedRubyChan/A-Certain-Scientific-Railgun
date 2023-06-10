@@ -19,5 +19,5 @@ label ep0ch0_de:
     narratorchan "Du fragst dich sicherlich was das hier sein soll.\nDies ist nur ein Test um zu sehen wie mehere \"script.rpy\" Dateien funktionieren."
     narratorchan "Viel Spaß :D <3"
 
-    jump ep01ch01_de
+    jump ep01ch01_de_intro
     return
