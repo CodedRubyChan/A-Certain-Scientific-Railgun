@@ -1,6 +1,6 @@
 ### Character defines
 define narratorchan = Character("Ruby-chan <3")
-define misakaMikoto = Character("Mikoto")
+define misakaMikoto = Character("Mikoto Misaka")
 define shiraiKuroko = Character("Kuroko")
 
 ### Image defines

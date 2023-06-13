@@ -28,8 +28,8 @@ label opening:
     $ game_lang = lang
     
     if lang == "german":
-        jump ep0ch0_de
+        jump ep00ch00_de
     else:
-        jump ep0ch0_en
+        jump ep00ch00_en
 
     return

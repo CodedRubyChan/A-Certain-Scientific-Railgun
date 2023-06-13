@@ -1,5 +1,5 @@
 # Hier beginnt das Spiel.
-label ep0ch0_en:
+label ep00ch00_en:
     $ save_name = ep00ch00_en_save
     scene class with fadeLong:
         zoom 1.5
