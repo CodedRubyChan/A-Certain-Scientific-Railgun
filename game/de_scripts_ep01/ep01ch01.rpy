@@ -1,4 +1,7 @@
 ##### STRG+F UND DANN "###" SUCHEN FÜR ALLE ZUSÄTZLICHEN INFOS & BEMERKUNGEN 
+##### HOW TO LOOP MUSIC:
+##### [play music "intro.ogg" tight=True]
+##### [queue music "loop.ogg" loop=True]
 
 label ep01ch01_de_intro:
     stop music
