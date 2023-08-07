@@ -208,7 +208,7 @@ label ep01ch01_de:
     
     judgementGirl_de "Schwesterherz?!"
 
-    "rief die Person in einer Mischung aus Euphorie und Unbehagen aus, die sich zuvor als JudgementBeamtin zu erkennen gegeben hatte."
+    "rief die Person in einer Mischung aus Euphorie und Unbehagen aus, die sich zuvor als Judgement Beamtin zu erkennen gegeben hatte."
     "Mit an die Hüfte gestemmten Armen drehte sich Mikoto um und betrachtete sie."
     "Vor ihr sah sie ein Mädchen mit einer flachen und zierlichen Statur von etwa 150cm mit rötlich-gelbbraunen Haaren, die zu zwei lockigen Zöpfen gebunden waren."
     "Der Rest ihrer von Natur aus lockigen Haare hing als zwei in der Mitte geteilte Strähnen herab, während ihre Zöpfe mit je einer roten Schleife gebunden waren und ihr rundliches Gesicht komplementierten."
