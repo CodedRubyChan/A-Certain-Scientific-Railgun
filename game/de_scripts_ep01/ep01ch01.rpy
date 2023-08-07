@@ -119,8 +119,9 @@ label ep01ch01_de:
     "tönte es plötzlich hinter ihr. Sie drehte sich um und vernahm zwei Personen, die in einigen Metern Abstand zu ihr standen"
     "ein Mädchen und ein Junge, ihrer Uniform und ihrem Aussehen nach zu urteilen Oberstufenschüler. Die Stimme gehörte zweifellos zur hohen Frauenstimme, die sie zuvor wahrgenommen hatte."
 
-    boyVoice_de "Wir…wir dachten du seist in Schwierigkeiten…deswegen haben wir {i}Judgement{/i} gerufen…die müssten eigentlich jeden Moment hier sein." ergänzte der Junge neben ihr.
-
+    boyVoice_de "Wir…wir dachten du seist in Schwierigkeiten…deswegen haben wir {i}Judgement{/i} gerufen…die müssten eigentlich jeden Moment hier sein." 
+    
+    "ergänzte der Junge neben ihr."
     "Seine Stimme wirkte verunsichert, so als wäre ihm nicht klar, wie er nach dem Spektakel, das sie gerade veranstaltet hatte, mit ihr reden sollte."
     "Zu keiner Zeit war sie in dieser Situation in Gefahr oder ein Opfer gewesen und doch muss es auf die Schüler, welche die Situation von außen betrachtet haben, so gewirkt haben."
     "Sie selbst zog ein leicht peinlich berührtes Gesicht, setzte ein gekünsteltes Lächeln auf und kniff die Augen zusammen."
