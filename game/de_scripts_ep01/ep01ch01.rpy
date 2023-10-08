@@ -12,32 +12,64 @@ label ep01ch01_de_intro:
 label ep01ch01_de:
     $ save_name = ep01ch01_de_save
 
-    scene academycity_street_01
+    # scene academycity_street_01
+    # scene black with fadeLong
 
-    show character_name
+    # show character_name
 
     play music casualBGM01
 
     # Vielleicht als Info an dich. Am Anfang werden drei Autos erwähnt:
     # a dark blue one with side notches suggesting it was one of the new models with vertically opening doors - Das Auto Harumi Kiyamas
-    # a bright yellow one, compact and sleek, giving off a futuristic and modern vibe despite its classic design as a sports car - Das Auto von Ao Amai
-    # a light green one, particularly noticeable for its small rounded shape, which seemed incapable of accommodating more than one person, even with great effort - Das Auto von Komoe
+    # FOUND IN: RAILGUN S1 E11 first 8 / 9 Seconds 
 
+    # a bright yellow one, compact and sleek, giving off a futuristic and modern vibe despite its classic design as a sports car - Das Auto von Ao Amai
+    # FOUND IN: INDEX S1 E19 ~10:30
+
+    # a light green one, particularly noticeable for its small rounded shape, which seemed incapable of accommodating more than one person, even with great effort - Das Auto von Komoe
+    # FOUND IN: INDEX S1 E21 ~4:15
+
+    show Ch1Frame1 with fadeLong:
+        zoom 1.5
     misakaMikoto "Hier wird’s echt nie langweilig."
+    show Ch1Frame2 with fadeLong:
+        zoom 1.5
     "Mit einem leichten Seufzer blickte sie auf die dreispurige Straße, welche in der dumpfen Morgenröte eingetaucht eine Art Schleier um die Stadt zog."
+    show Ch1Frame3 with fadeLong:
+        zoom 1.5
     "Es war der Frühmorgen des {b}16. Juli{/b}. Hinter den vorbeifahrenden PKW schimmerte der graue Asphalt hindurch, welcher die hereinbrechenden Sonnenstrahlen mit einem blasen Glitzern reflektierte."
+    show Ch1Frame4 with fadeLong:
+        zoom 1.5
     "Ihr Blick schweifte über die vielbefahrene Hauptstraße der {i}Bildungsstadt{/i}."
 
     # Für die 3 Autos, Szenen ausm Anime suchen zum Einblenden
+    # show harumiKiyamaCarAnim:
+        # zoom 1.49
+
+    show harumiKiyamaCar with fadeLong:
+        zoom 1.5
     "Vor sich nahm sie drei PKW wahr, ein dunkelblaues, das anhand der Einkerbungen an den Seiten vermuten ließ, es handele sich um einer der neumodischen Modelle, bei welcher sich die Türen vertikal öffnen ließen –"
+    show aoAmaiCar with fadeLong:
+        zoom 1.5
     "ein leuchtendgelbes, das durch seine kompakte und gleichzeitig schnörkellose Zusammensetzung trotz der klassischen Bauart als Sportwagen immer noch einen futuristisch-modernen Eindruck hinterließ –"
-    "und ein hellgrünes, das insbesondere durch sein kleines rundliches Design auffiel, in dem selbst unter größter Anstrengung nicht mehr als eine Person Platz haben dürfte."
-    
+    show komoeTsukuyomi with fadeLong:
+        zoom 1.5
+    "und ein beiges, das insbesondere durch sein kleines rundliches Design auffiel, in dem selbst unter größter Anstrengung nicht mehr als eine Person Platz haben dürfte."
+    hide harumiKiyamaCar
+    hide aoAmaiCar
+    hide komoeTsukuyomi with fadeLong
+
+    show Ch1Frame4:
+        zoom 1.5
     "Auf der Gegenspur erblickte sie einen breiten LKW, welcher die Aufschrift {i}Higuchi Forschungszentrum für Medizin & Pharmakologie, Bezirk 7{/i} trug."
     "Die Zahl Sieben erschien hierbei nicht wirklich verwunderlich, tauchte sie doch aufgrund der Lage im Schulbezirk VII recht häufig auf Werbebannern oder Gebäuden auf."
+    show Ch1Frame9 with fadeLong:
+        zoom 1.5
     "Im Hintergrund des Weges ließen sich die Umrisse eines gelblichen Busses erkennen, der aufgrund der Uhrzeit vermutlich für Touristen gedacht war, welcher der Bildungsstadt einen Besuch abstatten wollten."
     "An den Rändern der Straße wanderten einzelne Personen umher, aufgrund ihrer schwarzen Koffer und ihres jungen Alters vermutlich Schülerinnen und Schüler."
     "Die frühe Morgenstunde konnte nicht darüber hinwegtäuschen, dass es auf den Straßen der Bildungsstadt erstaunlich ruhig war, fast zu ruhig."
+    show Ch1Frame5 with fadeLong:
+        zoom 1.5
     "Wäre diese Ruhe nicht nur mehr als eine bloße Illusion, hätte sie fast beängstigend wirken können. Natürlich hatte Mikoto die Männer längst bemerkt, die sich demonstrativ neben sie platziert hatten."
     "Erst war es einer gewesen, dann drei und schließlich fand sie sich von fünf Personen umzingelt. Mehr als ein kleines Blinzeln wollte sie ihnen nicht würdigen."
     "Sie wusste genau, um welche Art von Männern es sich handelte, ohne sie überhaupt genauer betrachtet zu haben: Rowdys, wie sie in Bilderbüchern geschrieben stehen: groß, muskulös, pervers und nur mit geringer Intelligenz gesegnet."
@@ -49,6 +81,8 @@ label ep01ch01_de:
     "Je nach Tages und Gemütszustand können diese natürlich auch mitunter so nerven, dass man nach ihnen schlägt, obwohl man weiß, dass sie im Grunde komplett insignifikant sind."
     "Und doch war der Halbkreis an fehlgesteuertem Testosteron, der sich um sie gebildet hatte, trotz all der Bedeutungslosigkeit ein Symbolbild dafür, dass diese verrückte Stadt keinerlei ruhige Momente zuließ."
     "Noch nicht einmal ein Sonnenaufgang am Morgen auf einer Brücke inmitten des Stadtzentrums war in der Lage, für einen Augenblick der Stille und des Friedens zu sorgen."
+    show Ch1Frame6 with fadeLong:
+        zoom 1.5
     "„Hey, das ist doch ein Mädchen, was die Kerle da umzingeln oder? Bestimmt eine Mittelstufenschülerin, so wie die aussieht.“, nahm Mikoto dumpf aus der Distanz wahr."
     "Ohne ihren Blick zu wenden, fokussierte sie sich auf die Frauenstimme, welche aus dem Hintergrund zu hören war."
     "Neurologie war einer der Kernfächer in ihrem Schulcurriculum, weswegen sie einige erstaunliche Fakten über das Gehirn gelernt hatte."
@@ -58,6 +92,8 @@ label ep01ch01_de:
     "Diese unglaubliche Fähigkeit des Gehirns machte sie sich zu Nutze, um den Hintergrundgesprächen der Passanten zu lauschen, während sie gleichzeitig das Geschwafel der sie umzingelnden Männer erfolgreich ausblendete."
     "„Meinst du, sie ist okay? Sollten wir da nicht etwas machen…oder sagen?“, fragte die entfernte weibliche Stimme in einem unsicheren, fast schon flüsternden Ton."
     "„Schlechte Idee…aber ja…vielleicht Judgement rufen?“, ertönte es in einer etwas tieferen, aber gleichzeitig ähnlich flüsternden Stimme neben ihr."
+    show Ch1Frame7 with fadeLong:
+        zoom 1.5
     "Mikoto seufzte. Ihr Blick fiel auf die Getränkedose, welche sie vor Eintreten der Männer noch genüsslich geschlürft hatte."
     "Sogar dieser Kokosmost in ihrer Hand, gegoren aus einer unheiligen Allianz zwischen Kokosnuss und Apfelmost, stellte eine größere Herausforderung für sie und ihre Geschmacksnerven dar, als es diese Armleuchter tun würden."
     "Und doch war spätestens jetzt ignorieren keine Option mehr. Der Ball war ins Rollen gebracht worden."
@@ -67,7 +103,8 @@ label ep01ch01_de:
     
     "dachte sich Mikoto, als sie einen großen Schluck von ihrem Kokosmost nahm und sich langsam aber sicher umdrehte. Ihre Augen blieben gen Boden gerichtet."
     "Den Eindruck, dass irgendeiner der Machosprüche, welche die Männergruppe vor sich hingefaselt hatten, sie auch nur zu einem Iota interessierte, wollte sie gänzlich vermeiden."
-    
+    show Ch1Frame6 with fadeLong:
+        zoom 1.5
     rowdyA "Na Süße, zeigst du endlich mal dein hübsches Gesicht?\nWurde auch Zeit, ich dachte schon du bist taub, das wäre echt unsexy gewesen."
     
     "tönte es aus einem der Männer heraus. Obwohl ihr Blick fest Richtung Boden verhaftet blieb, merkte sie, wie einer der anderen Kerle sie begutachtete."
@@ -78,6 +115,8 @@ label ep01ch01_de:
     "Und doch wusste sie, dass der Moment nicht weit entfernt war, in welchem all die fahle Hochstapelei wie ein Kartenhaus in sich zusammenfallen würde."
     "Sie atmete tief ein und aus und setzte dazu an, nach all dieser Zeit endlich ihre Stimme zu erheben."
     
+    show Ch1Frame7 with fadeLong:
+        zoom 1.5
     misakaMikoto "Eigentlich hatte ich ja nicht vor, mich mit euch zu beschäftigen, aber jetzt ist es nun einmal so. Daher warne ich euch: verschwindet oder ich kann für nichts garantieren."
 
     "Während sie darauf achtete, so bestimmend wie möglich zu wirken, fiel es ihr schwer, ihr enormes Desinteresse an dieser Situation zu verbergen."
@@ -99,6 +138,8 @@ label ep01ch01_de:
     "dachte sich Mikoto, ehe sie tief seufzte und endlich ihren Blick hob. Da sie nun unausweichlich in die Konfrontation getreten war, war es an der Zeit, ihnen endlich ihre Aufmerksamkeit zu schenken."
     "Sie öffnete ihre Augen weit und blickte in die Gesichter der Männer, die sich um sie gescharrt hatten. Sie bestanden aus einer Mischung zwischen Horror und Raserei."
 
+    show Ch1Frame5 with fadeLong:
+        zoom 1.5
     misakaMikoto "…gut, ich hab‘ euch gewarnt.\nErnsthaft, ihr seid selbst daran schuld, was jetzt passiert."
 
     "setzte Mikoto ihren Satz in einer monotonen Stimme fort, laut genug, dass die beteiligten Männer sie hören konnten."
@@ -113,10 +154,12 @@ label ep01ch01_de:
     
     misakaMikoto "Und schon bröckelt die Fassade." 
     
-    "murmelte sie seufzend vor sich hin" ### MAYBE LÖSCHEN UND DURCH EMOTIONEN VON LIVE2D ERSETZEN ODER ZUSAMMEN MIT LIVE2D NUTZEN
+    "murmelte sie seufzend vor sich hin" ### ZUSAMMEN MIT LIVE2D NUTZEN
     
     misakaMikoto "Ernsthaft, gibt es in dieser Stadt keinen einzigen Mann, der wenigstens ein bisschen Schneid hat?"
 
+    show Ch1Frame6 with fadeLong:
+        zoom 1.5
     girlVoice_de "H-hey, geht es dir gut?"
 
     "tönte es plötzlich hinter ihr. Sie drehte sich um und vernahm zwei Personen, die in einigen Metern Abstand zu ihr standen"
@@ -142,6 +185,8 @@ label ep01ch01_de:
     "Anders als andere Esper, welche nach Erlangen ihrer Fähigkeit ihr physisches Training häufig vernachlässigen, war es Mikoto immer wichtig, sich und ihren Körper in Form zu halten,"
     "auch wenn sie anders als ihre Zimmergenossin beispielsweise nie gezieltes Kampftraining erhalten hatte."
     "Mit rasanten Schritten schloss sie die Kluft zwischen sich und den flüchtenden Machos, welche bereits bemerkt hatten, dass Mikoto die Verfolgung aufgenommen hatte."
+    show Ch1Frame12 with fadeLong:
+        zoom 1.5
     "Mit etwas, was sie nur als einen panischen Gesichtsausdruck vernehmen konnte, flüchteten sie in einer der engen Häuserreihen direkt unterhalb der Brücke."
     "Mit einem Satz stieß sich Mikoto von jener ab und machte sich die elektromagnetischen Felder an den Häusern zunutze, um sich galant entlang der Wände in die Gassen hineinzuschwingen."
     "Bei einem Blick in diese merkte sie schnell, dass sie komplett ausgeleuchtet waren."
@@ -150,6 +195,8 @@ label ep01ch01_de:
     "Der vor sie liegende Pfad wirkte wie ausgestorben. Die Gassensysteme der Bildungsstadt waren berüchtigt für ihren labyrinthförmigen Aufbau."
     "Die meisten waren nicht etwa nur ein gerader Weg zwischen zwei Häusern, sondern ein verzweigtes und verzwicktes System von unzähligen Gängen und kleinen alleeartigen Sackgassen,"
     "was es schwierig machte, sich durch diese zu navigieren."
+    show Ch1Frame13 with fadeLong:
+        zoom 1.5
     "Gerade Leute außerhalb des Gesetzes wie Skill-Out oder sonstige Rowdys nutzten die Gassen nicht selten als Tat- und gleichzeitig als Rückzugsort um im Schatten der Stadt agieren zu können."
     "Das unsichere Terrain zu kennen bot zweifellos einen riesigen Vorteil, einen den selbst Mikoto nicht leugnen konnte. Auch wenn die Männergruppe absolute Armleuchter waren, von denen in offenem Terrain keinerlei Gefahr ausging,"
     "war sie nicht so naiv, ihre Deckung in dieser Situation vollständig aufzugeben. "
@@ -200,15 +247,21 @@ label ep01ch01_de:
     "dachte sich Mikoto vergrämt und bekam bereits bei dem Gedanken an ihn eine Wut im Bauch."
     "Aber irgendwann, das schwor sie, würde sie auch diesen gewissen Trottel schlagen. Sie musste es, um sich selbst in die Augen sehen und weiterhin mit gehobener Brust vorangehen zu können."
     "Mikoto wurde plötzlich aus ihren Gedanken gerissen, als sie eine laute Stimme hinter ihr vernahm."
+    show Ch1Frame15 with fadeLong:
+        zoom 1.5
     "„Judgement ist da!“, schallte es in einem unüberhörbaren Ton."
     
     judgementGirl_de "Uns liegen Warnhinweise über Sie da vor! Bitte folgen Sie da meinen Anweisungen ohne Widerstand, andernfalls sehe ich mich da gezwunge…"
 
+    show Ch1Frame16 with fadeLong:
+        zoom 1.5
     "Die Stimme brach plötzlich ab. Sie war sehr hoch, höher als man es von den meisten Judgement-Mitarbeitern gewohnt war,"
     "dabei aber gleichzeitig sehr eloquent, sachlich, selbstsicher und etikettengetreu."
     "Doch auch ohne all diese paraverbalen Signale, die nur auf eine Person hindeuten konnten, wahrzunehmen,"
     "war bereits mit Ausruf des Satzes Judgement ist da klar, wer sich ihr von hinten genähert hatte. Es gab nämlich nur einen Menschen, der für diese Redewendung bekannt war."
     
+    show Ch1Frame17 with fadeLong:
+        zoom 1.5
     judgementGirl_de "Schwesterherz?!"
 
     "rief die Person in einer Mischung aus Euphorie und Unbehagen aus, die sich zuvor als Judgement Beamtin zu erkennen gegeben hatte."
@@ -223,6 +276,8 @@ label ep01ch01_de:
     "welches einen weißen Schild im Zentrum hatte – das offizielle Symbol für Judgement, welches alle Beamte im Dienst tragen müssen."
     "Sie nahm Augenkontakt zu dem Mädchen auf, das sie gut kannte und begrüßte sie schließlich mit einer freundlichen Stimme:"
 
+    show Ch1Frame18 with fadeLong:
+        zoom 1.5
     misakaMikoto "Oh, Kuroko."
 
     "PLATZHALTER" "PLATZHALTER LOL"
