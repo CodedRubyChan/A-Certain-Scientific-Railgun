@@ -9,39 +9,42 @@ define rowdyD = Character("Rowdy D")
 define rowdyE = Character("Rowdy E")
 
 ### Image defines
-image harumiKiyamaCar = "images/misc/Chapter1-HarumiKiyamaCar.png"
-image harumiKiyamaCarAnim:
-    animation
-    "harumiKiyamaCar"
-    xalign 5.0 yalign 5.0
-    linear 5.0 xalign -1.0 yalign -1.0
 
-image aoAmaiCar = "images/misc/Chapter1-AoAmaiCar.png"
+# image Car harumiKiyamaAnim:
+    # animation
+    # "Car harumiKiyama"
+    # xalign 5.0 yalign 5.0
+    # linear 5.0 xalign -1.0 yalign -1.0
 
-image komoeTsukuyomi = "images/misc/Chapter1-KomoeTsukuyomiCar.png"
-
-image ch01bg03 = "images/bg/Chapter1-BG3.png"
-image splash = "misc/splashscreen.png"
+# CHARACTER IMAGES
 image rubychanVeryHappy = "characters/narrator_rubychan/very happy.png"
-image Ch1Frame1 = "images/bg/Chapter1-Frame1.png"
-image Ch1Frame2 = "images/bg/Chapter1-Frame2.png"
-image Ch1Frame3 = "images/bg/Chapter1-Frame3.png"
-image Ch1Frame4 = "images/bg/Chapter1-Frame4.png"
-image Ch1Frame5 = "images/bg/Chapter1-Frame5.png"
-image Ch1Frame6 = "images/bg/Chapter1-Frame6.png"
-image Ch1Frame7 = "images/bg/Chapter1-Frame7.png"
-image Ch1Frame8 = "images/bg/Chapter1-Frame8.png"
-image Ch1Frame9 = "images/bg/Chapter1-Frame9.png"
-image Ch1Frame10 = "images/bg/Chapter1-Frame10.png"
-image Ch1Frame11 = "images/bg/Chapter1-Frame11.png"
-image Ch1Frame12 = "images/bg/Chapter1-Frame12.png"
-image Ch1Frame13 = "images/bg/Chapter1-Frame13.png"
-image Ch1Frame14 = "images/bg/Chapter1-Frame14.png"
-image Ch1Frame15 = "images/bg/Chapter1-Frame15.png"
-image Ch1Frame16 = "images/bg/Chapter1-Frame16.png"
-image Ch1Frame17 = "images/bg/Chapter1-Frame17.png"
-image Ch1Frame18 = "images/bg/Chapter1-Frame18.png"
 
+# MISC IMAGES
+image splash = "misc/splashscreen.png"
+image Car harumiKiyama = "images/misc/Chapter1-HarumiKiyamaCar.png"
+image Car aoAmai = "images/misc/Chapter1-AoAmaiCar.png"
+image Car komoeTsukuyomi = "images/misc/Chapter1-KomoeTsukuyomiCar.png"
+image ch01bg03 = "images/bg/Chapter1-BG3.png"
+
+# BG IMAGES
+image Chapter1 Frame1 = "images/bg/Chapter1-Frame1.png"
+image Chapter1 Frame2 = "images/bg/Chapter1-Frame2.png"
+image Chapter1 Frame3 = "images/bg/Chapter1-Frame3.png"
+image Chapter1 Frame4 = "images/bg/Chapter1-Frame4.png"
+image Chapter1 Frame5 = "images/bg/Chapter1-Frame5.png"
+image Chapter1 Frame6 = "images/bg/Chapter1-Frame6.png"
+image Chapter1 Frame7 = "images/bg/Chapter1-Frame7.png"
+image Chapter1 Frame8 = "images/bg/Chapter1-Frame8.png"
+image Chapter1 Frame9 = "images/bg/Chapter1-Frame9.png"
+image Chapter1 Frame10 = "images/bg/Chapter1-Frame10.png"
+image Chapter1 Frame11 = "images/bg/Chapter1-Frame11.png"
+image Chapter1 Frame12 = "images/bg/Chapter1-Frame12.png"
+image Chapter1 Frame13 = "images/bg/Chapter1-Frame13.png"
+image Chapter1 Frame14 = "images/bg/Chapter1-Frame14.png"
+image Chapter1 Frame15 = "images/bg/Chapter1-Frame15.png"
+image Chapter1 Frame16 = "images/bg/Chapter1-Frame16.png"
+image Chapter1 Frame17 = "images/bg/Chapter1-Frame17.png"
+image Chapter1 Frame18 = "images/bg/Chapter1-Frame18.png"
 
 ### Video defines
 define introOpening = "videos/RailgunOpening.mpg"
