@@ -7,7 +7,7 @@ label language_chooser:
     menu:
         "Deutsch":
             $ persistent.lang = "german"
-        "English":
+        "English (FUNKTIONIERT NICHT)":
             $ persistent.lang = "english"
         
     $ renpy.utter_restart()
