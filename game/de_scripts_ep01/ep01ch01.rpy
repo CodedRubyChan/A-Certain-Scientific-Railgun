@@ -12,7 +12,7 @@ label ep01ch01_de_intro:
 label ep01ch01_de:
     $ save_name = ep01ch01_de_save
 
-    play music casualBGM01
+    play music bgNoise01_cicada loop
 
     show Chapter1 Frame1 with fadeLong:
         zoom 1.5
@@ -255,6 +255,10 @@ label ep01ch01_de:
     misakaMikoto "{i}(Bis auf diesen Trottel.){/i}"
 
     "dachte sich Mikoto vergrämt und bekam bereits bei dem Gedanken an ihn eine Wut im Bauch."
+
+    # stop music fadeout 1.0
+    play music casualBGM02 fadein 1.0
+
     "Aber irgendwann, das schwor sie, würde sie auch diesen gewissen Trottel schlagen. Sie musste es, um sich selbst in die Augen sehen und weiterhin mit gehobener Brust vorangehen zu können."
     "Mikoto wurde plötzlich aus ihren Gedanken gerissen, als sie eine laute Stimme hinter ihr vernahm."
     
@@ -293,6 +297,9 @@ label ep01ch01_de:
     show Chapter1 Frame18 with fadeLong:
         zoom 1.5
     
+    stop music
+    play music casualBGM02outro noloop # fadein 1.0
+
     misakaMikoto "Oh, Kuroko."
 
     "PLATZHALTER" "PLATZHALTER LOL"

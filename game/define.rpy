@@ -51,6 +51,11 @@ define introOpening = "videos/RailgunOpening.mpg"
 
 ### Music defines
 define casualBGM01 = "audio/bgm/bgm01.ogg"
+define casualBGM02 = "audio/bgm/bgm02.ogg"
+define casualBGM02outro = "audio/bgm/bgm02_outro.ogg"
+
+### BG Noise defines
+define bgNoise01_cicada = "audio/bgn/BGNoise01-Cicada.ogg"
 
 ### SFX defines
 
