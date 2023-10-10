@@ -5,3 +5,8 @@ game/audio/**
 game/videos/**
 game/saves/**
 game/cache/**
+
+# compiled renpy files
+*.rpyb
+*.rpyc
+*.rpymc
