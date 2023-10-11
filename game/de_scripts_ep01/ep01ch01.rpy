@@ -153,6 +153,10 @@ label ep01ch01_de:
     "Seine Bewegung wurde durch eine elektronische Wand, die aus Mikotos Körper strömte und sie wie einen Schutzwal umgab, abrupt unterbrochen."
     "Die dabei entstehenden Funken schlängelten sich kreisförmig an die Spitze der nahegelegenen Straßenlaternen und verursachten einen Kurzschluss."
     "Hinter sich nahm Mikoto lautes Hupen und das Quietschen von Bremsen wahr, doch hatte sie im Moment keine Zeit, sich damit zu beschäftigen, jetzt, wo sie sich endlich entschieden hatte, den Rowdys neben ihr ihre Aufmerksamkeit zu schenken."
+    
+    play music battleBGM03intro
+    queue music battleBGM03loop loop
+
     "Vor ihr lag der kräftige, glatzköpfige Mann und schüttelte am ganzen Körper. „D-die ist komplett wahnsinnig!“, schrie einer der Männer, ehe er sich in rasantem Tempo von ihr abwandte."
     "„Alter, Zeit sich zu verpissen!“, schrie ein anderer, ehe sie ihren halbbenommenen Freund vom Boden aufstützten und fluchtartig die Brücke herunterstürmten."
     "Mikoto blickte ihnen nach, in ihrer Hand immer noch den Kokosmost haltend. Sie nahm einen finalen Schluck und blickte den eilenden Machos mit einem enttäuschten Gemüt hinterher."
@@ -256,8 +260,10 @@ label ep01ch01_de:
 
     "dachte sich Mikoto vergrämt und bekam bereits bei dem Gedanken an ihn eine Wut im Bauch."
 
-    # stop music fadeout 1.0
-    play music casualBGM02 fadein 1.0
+    stop music fadeout 1.0
+    play music battleBGM03outro
+
+    queue music casualBGM02
 
     "Aber irgendwann, das schwor sie, würde sie auch diesen gewissen Trottel schlagen. Sie musste es, um sich selbst in die Augen sehen und weiterhin mit gehobener Brust vorangehen zu können."
     "Mikoto wurde plötzlich aus ihren Gedanken gerissen, als sie eine laute Stimme hinter ihr vernahm."
