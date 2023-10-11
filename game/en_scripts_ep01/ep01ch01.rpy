@@ -54,7 +54,7 @@ label ep01ch01_en:
     show Chapter1 Frame4: # with fadeLong:
         zoom 1.5
     
-    "On the opposite lane, she spotted a wide truck bearing the inscription {i}Higuchi Research Center for Medicine & Pharmacology, District 7/i}."
+    "On the opposite lane, she spotted a wide truck bearing the inscription {i}Higuchi Research Center for Medicine & Pharmacology, District 7{/i}."
     "The number seven didn't come as a surprise, as it frequently appeared on banners and buildings due to its location in School District VII."
     
     show Chapter1 Frame9 with fadeLong:
