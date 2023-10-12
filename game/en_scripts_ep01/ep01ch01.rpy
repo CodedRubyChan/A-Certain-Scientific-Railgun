@@ -166,12 +166,12 @@ label ep01ch01_en:
     show Chapter1 Frame6 with fadeLong:
         zoom 1.5
     
-    girlVoice_de "“Hey, are you all right?”"
+    girlVoice_en "“Hey, are you all right?”"
 
     "a voice suddenly rang out from behind her. She turned around and spotted two individuals standing a few meters away,"
     "a girl and a boy, both looking like high school students judging by their uniforms and appearance. The voice undoubtedly belonged to the high-pitched woman's voice she had heard earlier."
 
-    boyVoice_de "“W-we thought you were in trouble… that's why we called Judgment… they should be here any moment,”" 
+    boyVoice_en "“W-we thought you were in trouble… that's why we called Judgment… they should be here any moment,”"
     
     "the boy beside her added."
     "His voice sounded uncertain, as if he wasn't sure how to approach her after the spectacle she had just put on."
@@ -267,7 +267,7 @@ label ep01ch01_en:
     
     "“Judgement is there!” it resounded in an unmistakable tone."
     
-    judgementGirl_de "“We have received warnings about you there! Please comply with my instructions without resistance, or else I there may be forced to…”"
+    judgementGirl_en "“We have received warnings about you there! Please comply with my instructions without resistance, or else I there may be forced to…”"
 
     show Chapter1 Frame16 with fadeLong:
         zoom 1.5
@@ -280,7 +280,7 @@ label ep01ch01_en:
     show Chapter1 Frame17 with fadeLong:
         zoom 1.5
     
-    judgementGirl_de "“Sis-tah!”"
+    judgementGirl_en "“Sis-tah!”"
 
     "the person exclaimed with a mix of euphoria and unease, who had earlier identified herself as a Judgement officer."
     "With her arms crossed on her hips, Mikoto turned around to look at her."
