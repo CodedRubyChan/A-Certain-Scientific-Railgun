@@ -252,47 +252,47 @@ label ep01ch01_en:
     "of rising again after a failure and trying again and again until things worked out."
     "That's how she had won every battle and resolved every conflict so far. Except for one."
     
-    misakaMikoto "{i}(Bis auf diesen Trottel.){/i}"
+    misakaMikoto "{i}“Except for that idiot,”{/i}"
 
-    "dachte sich Mikoto vergrämt und bekam bereits bei dem Gedanken an ihn eine Wut im Bauch."
+    "Mikoto grumbled, feeling a surge of anger in her gut just at the thought of him."
 
     # stop music fadeout 1.0
     play music casualBGM02 fadein 1.0
 
-    "Aber irgendwann, das schwor sie, würde sie auch diesen gewissen Trottel schlagen. Sie musste es, um sich selbst in die Augen sehen und weiterhin mit gehobener Brust vorangehen zu können."
-    "Mikoto wurde plötzlich aus ihren Gedanken gerissen, als sie eine laute Stimme hinter ihr vernahm."
+    "But someday, she swore, she would defeat that {i}certain idiot{/i} too. She had to, to look herself in the eye and keep marching forward with her head up."
+    "Mikoto was suddenly jolted out of her thoughts as she heard a loud voice behind her."
     
     show Chapter1 Frame15 with fadeLong:
         zoom 1.5
     
-    "„Judgement ist da!“, schallte es in einem unüberhörbaren Ton."
+    "“Judgement is there!” it resounded in an unmistakable tone."
     
-    judgementGirl_de "Uns liegen Warnhinweise über Sie da vor! Bitte folgen Sie da meinen Anweisungen ohne Widerstand, andernfalls sehe ich mich da gezwunge…"
+    judgementGirl_de "“We have received warnings about you there! Please comply with my instructions without resistance, or else I there may be forced to…”"
 
     show Chapter1 Frame16 with fadeLong:
         zoom 1.5
     
-    "Die Stimme brach plötzlich ab. Sie war sehr hoch, höher als man es von den meisten Judgement-Mitarbeitern gewohnt war,"
-    "dabei aber gleichzeitig sehr eloquent, sachlich, selbstsicher und etikettengetreu."
-    "Doch auch ohne all diese paraverbalen Signale, die nur auf eine Person hindeuten konnten, wahrzunehmen,"
-    "war bereits mit Ausruf des Satzes Judgement ist da klar, wer sich ihr von hinten genähert hatte. Es gab nämlich nur einen Menschen, der für diese Redewendung bekannt war."
+    "The voice abruptly stopped. It was very high-pitched, higher than what one would expect from most Judgement officers,"
+    "yet at the same time, it was very articulate, composed, self-assured, and adhering to protocol."
+    "But even without all these paraverbal cues, which could only point to one person,"
+    "it was clear who had approached her from behind as soon as the phrase Judgement is there was uttered. There was only one person known for using that expression."
     
     show Chapter1 Frame17 with fadeLong:
         zoom 1.5
     
-    judgementGirl_de "Schwesterherz?!"
+    judgementGirl_de "“Sis-tah!”"
 
-    "rief die Person in einer Mischung aus Euphorie und Unbehagen aus, die sich zuvor als Judgement Beamtin zu erkennen gegeben hatte."
-    "Mit an die Hüfte gestemmten Armen drehte sich Mikoto um und betrachtete sie."
-    "Vor ihr sah sie ein Mädchen mit einer flachen und zierlichen Statur von etwa 150cm mit rötlich-gelbbraunen Haaren, die zu zwei lockigen Zöpfen gebunden waren."
-    "Der Rest ihrer von Natur aus lockigen Haare hing als zwei in der Mitte geteilte Strähnen herab, während ihre Zöpfe mit je einer roten Schleife gebunden waren und ihr rundliches Gesicht komplementierten."
-    "An ihrem Oberkörper trug sie ein kurzärmeliges weißes Hemd unter einer hellbraunen Weste mit einem roten Emblem auf der linken Seite, das die Form"
-    "eines abgerundeten Diamanten hatte und in seinem Zentrum einen hellgelb-stehenden Vierpass mit Dreiviertelkreisbögen darstellte,"
-    "in den ein Symbol inkorporiert war, das von seiner Form her an ein Frakturschrift-V erinnerte."
-    "Als Unterteil trug sie einen dunkelbraunen Taschenrock, der bis zur Hälfte der Oberschenkel reichte."
-    "Es war die exakt gleiche Schuluniform, die Mikoto trug, mit dem Unterschied, dass sie zusätzlich ein grün-weiß-gestreiftes Armband über ihrem rechten Arm gezogen hatte,"
-    "welches einen weißen Schild im Zentrum hatte – das offizielle Symbol für Judgement, welches alle Beamte im Dienst tragen müssen."
-    "Sie nahm Augenkontakt zu dem Mädchen auf, das sie gut kannte und begrüßte sie schließlich mit einer freundlichen Stimme:"
+    "the person exclaimed with a mix of euphoria and unease, who had earlier identified herself as a Judgement officer."
+    "With her arms crossed on her hips, Mikoto turned around to look at her."
+    "Before her stood a girl with a petite and slender stature of about 150cm, with reddish-brown hair tied into two curly pigtails."
+    "The rest of her naturally curly hair cascaded down as two divided strands in the middle, while her pigtails were secured with red bows, complementing her round face."
+    "On her upper body, she wore a shortsleeved white shirt underneath a light brown vest, adorned with a red emblem on the left side."
+    "The emblem took the shape of a rounded diamond with a pale yellow standing quatrefoil encompassed by three-quarter circular arcs,"
+    "incorporating a symbol within it that resembled a Frakturstyle “V.”"
+    "As her lower garment, she sported a dark brown pocketed skirt that reached halfway down her thighs."
+    "It was the exact same school uniform Mikoto was wearing, with the difference that she had an additional green-and-whitestriped armband pulled over her right arm,"
+    "featuring a white shield at its center—the official symbol of Judgement, which all officers on duty must wear."
+    "Mikoto made eye contact with the girl, whom she knew quite well, and eventually greeted her with a friendly voice, saying,"
 
     show Chapter1 Frame18 with fadeLong:
         zoom 1.5
@@ -300,8 +300,8 @@ label ep01ch01_en:
     stop music
     play music casualBGM02outro noloop # fadein 1.0
 
-    misakaMikoto "Oh, Kuroko."
+    misakaMikoto "“Oh, Kuroko.”"
 
-    "PLATZHALTER" "PLATZHALTER LOL"
+    # "PLATZHALTER" "PLATZHALTER LOL"
 
     return
