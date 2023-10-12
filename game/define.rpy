@@ -53,6 +53,9 @@ define introOpening = "videos/RailgunOpening.mpg"
 define casualBGM01 = "audio/bgm/bgm01.ogg"
 define casualBGM02 = "audio/bgm/bgm02.ogg"
 define casualBGM02outro = "audio/bgm/bgm02_outro.ogg"
+define battleBGM03intro = "audio/bgm/bgm03_intro.ogg"
+define battleBGM03loop = "audio/bgm/bgm03_loop.ogg"
+define battleBGM03outro = "audio/bgm/bgm03_outro.ogg"
 
 ### BG Noise defines
 define bgNoise01_cicada = "audio/bgn/BGNoise01-Cicada.ogg"
