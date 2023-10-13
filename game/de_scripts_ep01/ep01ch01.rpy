@@ -2,7 +2,7 @@
 ##### HOW TO LOOP MUSIC:
 ##### [play music "intro.ogg" tight=True]
 ##### [queue music "loop.ogg" loop=True]
-##### “ ”
+##### „ ”
 
 
 label ep01ch01_de_intro:
@@ -19,7 +19,7 @@ label ep01ch01_de:
     show Chapter1 Frame1 with fadeLong:
         zoom 1.5
     
-    misakaMikoto "Hier wird’s echt nie langweilig."
+    misakaMikoto "„Hier wird’s echt nie langweilig.”"
 
     show Chapter1 Frame2 with fadeLong:
         zoom 1.5
@@ -102,7 +102,7 @@ label ep01ch01_de:
     "Und doch war spätestens jetzt ignorieren keine Option mehr. Der Ball war ins Rollen gebracht worden."
     "Irgendjemand würde sich nun um sie kümmern müssen und entweder sie wartet nun eine gefühlte Ewigkeit darauf, bis jemand von Judgement eintrifft oder sie geht den effizienteren Weg und nimmt sich selbst der Kerle an."
     
-    misakaMikoto "{i}(Was ein Ärger…){/i}"
+    misakaMikoto "{i}„Was ein Ärger…”{/i}"
     
     "dachte sich Mikoto, als sie einen großen Schluck von ihrem Kokosmost nahm und sich langsam aber sicher umdrehte. Ihre Augen blieben gen Boden gerichtet."
     "Den Eindruck, dass irgendeiner der Machosprüche, welche die Männergruppe vor sich hingefaselt hatten, sie auch nur zu einem Iota interessierte, wollte sie gänzlich vermeiden."
@@ -110,11 +110,11 @@ label ep01ch01_de:
     show Chapter1 Frame6 with fadeLong:
         zoom 1.5
     
-    rowdyA "Na Süße, zeigst du endlich mal dein hübsches Gesicht?\nWurde auch Zeit, ich dachte schon du bist taub, das wäre echt unsexy gewesen."
+    rowdyA "„Na Süße, zeigst du endlich mal dein hübsches Gesicht?\nWurde auch Zeit, ich dachte schon du bist taub, das wäre echt unsexy gewesen.”"
     
     "tönte es aus einem der Männer heraus. Obwohl ihr Blick fest Richtung Boden verhaftet blieb, merkte sie, wie einer der anderen Kerle sie begutachtete."
     
-    rowdyC "Joa, von vorne etwas anders als erwartet, aber das ist okay, weißt du? Ich steh‘ auf Jüngere."
+    rowdyC "„Joa, von vorne etwas anders als erwartet, aber das ist okay, weißt du? Ich steh‘ auf Jüngere.”"
     
     "Ja, die Kommentare waren ungefähr auf dem intellektuellen Niveau, das sie erwartet hatte."
     "Und doch wusste sie, dass der Moment nicht weit entfernt war, in welchem all die fahle Hochstapelei wie ein Kartenhaus in sich zusammenfallen würde."
@@ -123,23 +123,23 @@ label ep01ch01_de:
     show Chapter1 Frame7 with fadeLong:
         zoom 1.5
     
-    misakaMikoto "Eigentlich hatte ich ja nicht vor, mich mit euch zu beschäftigen, aber jetzt ist es nun einmal so. Daher warne ich euch: verschwindet oder ich kann für nichts garantieren."
+    misakaMikoto "„Eigentlich hatte ich ja nicht vor, mich mit euch zu beschäftigen, aber jetzt ist es nun einmal so. Daher warne ich euch: verschwindet oder ich kann für nichts garantieren.”"
 
     "Während sie darauf achtete, so bestimmend wie möglich zu wirken, fiel es ihr schwer, ihr enormes Desinteresse an dieser Situation zu verbergen."
     "Für einen kurzen Moment trat ein betretenes Schweigen ein. Dann, nach einem viel zu kurzen Moment der Stille, erhob der Kerl zu ihrer äußersten Rechten das Wort."
 
-    rowdyE "Hah, du bist mir ja eine! Sagst erst die ganze Zeit kein Wort und dann brabbelst du so einen Scheiß! Ernsthaft Chica, ich glaub du weißt nicht, wer wir sind?!"
+    rowdyE "„Hah, du bist mir ja eine! Sagst erst die ganze Zeit kein Wort und dann brabbelst du so einen Scheiß! Ernsthaft Chica, ich glaub du weißt nicht, wer wir sind?!”"
 
     "brüllte er in einem sarkastischen und gleichzeitig aufgeregten Ton heraus, während er seinen Kopf gefährlich nah an ihren Körper bewegte und leicht mit seinen Zähnen fletschte."
     
-    rowdyB "Ich glaub‘ die Kleine brauch‘ mal etwas Nachhilfe. Komm‘ mal mit!"
+    rowdyB "„Ich glaub‘ die Kleine brauch‘ mal etwas Nachhilfe. Komm‘ mal mit!”"
 
     "brüllte der glatzköpfige zweite Mann von links, der augenscheinlich kräftigste von allen, während er nach Mikotos Hand griff."
     "Doch ehe er diese berühren konnte, wurde er von einem Schwall an elektronischen Funken erfasst, die sich wie scharfe Nadeln in sein Handgelenk bohrten."
     "Mit einem schmerzerfüllten Kreischen wich er zurück, während er mit seiner linken Hand seine angeschlagene rechte abstützte."
     "Neben ihm konnte sie Schreie wahrnehmen, die wild durcheinanderliefen und Bewegungen, die hektisch vollzogen wurden."
 
-    misakaMikoto "{i}(Trottel...){/i}"
+    misakaMikoto "{i}„Trottel...”{/i}"
 
     "dachte sich Mikoto, ehe sie tief seufzte und endlich ihren Blick hob. Da sie nun unausweichlich in die Konfrontation getreten war, war es an der Zeit, ihnen endlich ihre Aufmerksamkeit zu schenken."
     "Sie öffnete ihre Augen weit und blickte in die Gesichter der Männer, die sich um sie gescharrt hatten. Sie bestanden aus einer Mischung zwischen Horror und Raserei."
@@ -147,7 +147,7 @@ label ep01ch01_de:
     show Chapter1 Frame5 with fadeLong:
         zoom 1.5
     
-    misakaMikoto "…gut, ich hab‘ euch gewarnt.\nErnsthaft, ihr seid selbst daran schuld, was jetzt passiert."
+    misakaMikoto "„…gut, ich hab‘ euch gewarnt.\nErnsthaft, ihr seid selbst daran schuld, was jetzt passiert.”"
 
     "setzte Mikoto ihren Satz in einer monotonen Stimme fort, laut genug, dass die beteiligten Männer sie hören konnten."
     "„Du…du…!“, brüllte der Mann, dessen Hand immer noch vor Schmerz vibrierte mit Tränen in den Augen, ehe er mit seinem ganzen Körpergewicht auf Mikoto zusprang,"
@@ -163,28 +163,28 @@ label ep01ch01_de:
     "„Alter, Zeit sich zu verpissen!“, schrie ein anderer, ehe sie ihren halbbenommenen Freund vom Boden aufstützten und fluchtartig die Brücke herunterstürmten."
     "Mikoto blickte ihnen nach, in ihrer Hand immer noch den Kokosmost haltend. Sie nahm einen finalen Schluck und blickte den eilenden Machos mit einem enttäuschten Gemüt hinterher."
     
-    misakaMikoto "Und schon bröckelt die Fassade." 
+    misakaMikoto "„Und schon bröckelt die Fassade.”" 
     
     "murmelte sie seufzend vor sich hin" ### ZUSAMMEN MIT LIVE2D NUTZEN
     
-    misakaMikoto "Ernsthaft, gibt es in dieser Stadt keinen einzigen Mann, der wenigstens ein bisschen Schneid hat?"
+    misakaMikoto "„Ernsthaft, gibt es in dieser Stadt keinen einzigen Mann, der wenigstens ein bisschen Schneid hat?”"
 
     show Chapter1 Frame6 with fadeLong:
         zoom 1.5
     
-    girlVoice_de "H-hey, geht es dir gut?"
+    girlVoice_de "„H-hey, geht es dir gut?”"
 
     "tönte es plötzlich hinter ihr. Sie drehte sich um und vernahm zwei Personen, die in einigen Metern Abstand zu ihr standen"
     "ein Mädchen und ein Junge, ihrer Uniform und ihrem Aussehen nach zu urteilen Oberstufenschüler. Die Stimme gehörte zweifellos zur hohen Frauenstimme, die sie zuvor wahrgenommen hatte."
 
-    boyVoice_de "Wir…wir dachten du seist in Schwierigkeiten…deswegen haben wir {i}Judgement{/i} gerufen…die müssten eigentlich jeden Moment hier sein." 
+    boyVoice_de "„Wir…wir dachten du seist in Schwierigkeiten…deswegen haben wir {i}Judgement{/i} gerufen…die müssten eigentlich jeden Moment hier sein.”" 
     
     "ergänzte der Junge neben ihr."
     "Seine Stimme wirkte verunsichert, so als wäre ihm nicht klar, wie er nach dem Spektakel, das sie gerade veranstaltet hatte, mit ihr reden sollte."
     "Zu keiner Zeit war sie in dieser Situation in Gefahr oder ein Opfer gewesen und doch muss es auf die Schüler, welche die Situation von außen betrachtet haben, so gewirkt haben."
     "Sie selbst zog ein leicht peinlich berührtes Gesicht, setzte ein gekünsteltes Lächeln auf und kniff die Augen zusammen."
 
-    misakaMikoto "Oh, ist das so? Nun, {i}ähhh…{/i} Danke für die Hilfe… schätze ich."
+    misakaMikoto "„Oh, ist das so? Nun, {i}ähhh…{/i} Danke für die Hilfe… schätze ich.”"
 
     "erwiderte sie, ehe sie sich wieder abwandte und ihren Blick auf die flüchtenden Kerle richtete, die in der Zwischenzeit einiges an Distanz gutgemacht hatten."
     "Judgement war bereits informiert. Sie würden also ohnehin Jagd auf die Kerle machen. Wäre es da nicht einfacher, ihnen die Arbeit direkt abzunehmen?"
@@ -228,7 +228,7 @@ label ep01ch01_de:
     "Während sie die beiden Rowdys begutachtete, signalisierte ihr elektromagnetisches Warnsystem ihr, dass sich von hinten ebenfalls Personen näherten."
     "Die Clique hatte wohl darauf spekuliert, sie innerhalb der Gassen durch einen Teamengriff überraschen zu können."
 
-    misakaMikoto "{i}(Oh man…){/i}"
+    misakaMikoto "{i}„Oh man…”{/i}"
 
     "dachte sich Mikoto mit einem Seufzer, als sie einen Elektroschwall um sich erzeugte, der die anstürmenden Männer vollständig erfasste."
     "Nach einigen Sekunden des Klirrens und Funkens kehrte wieder stelle ein."
@@ -258,7 +258,7 @@ label ep01ch01_de:
     "nach einem Fehlschlag wieder aufzustehen und es so lange wieder und wieder zu probieren, bis es klappt."
     "So hat sie bislang jeden Kampf gewinnen und jeden Konflikt für sich entscheiden können. Also alle, bis auf einen."
     
-    misakaMikoto "{i}(Bis auf diesen Trottel.){/i}"
+    misakaMikoto "{i}„Bis auf diesen Trottel.”{/i}"
 
     "dachte sich Mikoto vergrämt und bekam bereits bei dem Gedanken an ihn eine Wut im Bauch."
 
@@ -275,7 +275,7 @@ label ep01ch01_de:
     
     "„Judgement ist da!“, schallte es in einem unüberhörbaren Ton."
     
-    judgementGirl_de "Uns liegen Warnhinweise über Sie da vor! Bitte folgen Sie da meinen Anweisungen ohne Widerstand, andernfalls sehe ich mich da gezwunge…"
+    judgementGirl_de "„Uns liegen Warnhinweise über Sie da vor! Bitte folgen Sie da meinen Anweisungen ohne Widerstand, andernfalls sehe ich mich da gezwunge…”"
 
     show Chapter1 Frame16 with fadeLong:
         zoom 1.5
@@ -288,7 +288,7 @@ label ep01ch01_de:
     show Chapter1 Frame17 with fadeLong:
         zoom 1.5
     
-    judgementGirl_de "Schwesterherz?!"
+    judgementGirl_de "„Schwesterherz?!”"
 
     "rief die Person in einer Mischung aus Euphorie und Unbehagen aus, die sich zuvor als Judgement Beamtin zu erkennen gegeben hatte."
     "Mit an die Hüfte gestemmten Armen drehte sich Mikoto um und betrachtete sie."
@@ -308,7 +308,7 @@ label ep01ch01_de:
     stop music
     play music casualBGM02outro noloop # fadein 1.0
 
-    misakaMikoto "Oh, Kuroko."
+    misakaMikoto "„Oh, Kuroko.”"
 
     "PLATZHALTER" "PLATZHALTER LOL"
 
