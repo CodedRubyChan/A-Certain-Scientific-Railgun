@@ -38,7 +38,7 @@ define gui.show_name = True
 
 ## Die Version des Spiels.
 
-define config.version = "0.0.1"
+define config.version = "0.0.2-1"
 
 
 ## Text, der auf dem Info-Bildschirm des Spiels erscheint. Setzen Sie den Text
@@ -151,9 +151,9 @@ default preferences.text_cps = 0
 default preferences.afm_time = 15
 
 ## Setting Default Volume
-define config.default_music_volume = 0.15
-define config.default_sfx_volume = 0.15
-define config.default_voice_volume = 0.15
+define config.default_music_volume = 0.75
+# define config.default_sfx_volume = 0.15
+define config.default_voice_volume = 0.5
 
 
 ## Verzeichnis speichern #######################################################

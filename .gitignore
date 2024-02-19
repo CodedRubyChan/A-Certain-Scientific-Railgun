@@ -18,3 +18,5 @@ game/script.rpyc
 game/de_scripts_ep0/ep0ch0.rpyc
 game/en_scripts_ep0/ep0ch0.rpyc
 game/tl/None/common.rpymc
+*.keystore
+android.json

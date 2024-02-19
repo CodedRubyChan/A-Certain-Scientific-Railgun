@@ -134,6 +134,9 @@ label ep01ch01_en:
     rowdyB "“I think this little one needs a lesson. Come on!”"
 
     "shouted the bald second man from the left, seemingly the strongest of them all, as he reached for Mikoto's hand."
+
+    play sound electro_sfx01
+
     "But before he could touch her, he was engulfed in a burst of electronic sparks, piercing his wrist like sharp needles."
     "He recoiled with a pained scream, supporting his injured right hand with his left."
     "Beside him, she could hear screams overlapping and frantic movements taking place."
@@ -189,6 +192,10 @@ label ep01ch01_en:
     "Judgment had already been informed. They would chase down the guys anyway. Wouldn't it be easier to lend them a hand directly?"
     "And if she didn't intervene and the guys escaped, then what? What if they harassed another defenseless girl next time?"
     "Just in her second year of middle school alone, Mikoto had already dealt with six incidents where a group of men had targeted newcomers at her all-girls school."
+    
+    show mikotoMisaka_running01 with fadeLong
+    play sound electro_sfx01
+
     "Could she really take the risk when she was capable of helping here and now? She took a deep breath through her mouth and nose, closing her eyes."
     "{i}Zap.{/i} A split second later, she opened her lids wide and sprinted off. Surrounded by electric sparks, she raced down the stone bridge as if there were no air resistance or gravity."
     "Despite the spectacle, her electric sparks weren't even necessary to reach her level of acceleration."
@@ -197,10 +204,15 @@ label ep01ch01_en:
     "even though she had never received specialized combat training like her roommate, for example."
     "With rapid strides, she closed the gap between herself and the fleeing machos who had already noticed her pursuit."
     
+    # hide mikotoMisaka_running01 
+    # BILD TRANSITION FEHLERHAFT - MUSST DU IRGENDWANN NOCHMAL CHECKEN
     show Chapter1 Frame12 with fadeLong:
         zoom 1.5
     
     "With what she could only perceive as panic on their faces, they darted into one of the narrow rows of houses just below the bridge."
+    
+    play sound electro_sfx01
+
     "With a leap, Mikoto pushed off from it, utilizing the electromagnetic fields around the buildings to swing herself gracefully along the walls and into the alleys."
     "Upon a glance, she quickly realized that the alleyways were fully illuminated."
     "The sun, whose dawn she had observed before being interrupted by the thugs, must have risen completely by now."
@@ -234,6 +246,9 @@ label ep01ch01_en:
     "Mikoto bent her palm behind her head and swiftly ran her fingers through her shoulder-length hair."
     "Apart from aching groans, there was no sound left from the men who had just attacked her."
     "She took a few steps back to keep an eye on those who had ambushed her from behind. In front of her lay a total of four men, sizzling with intense electric charge."
+    
+    play sound electro_sfx01
+    
     "Of course, she avoided causing them life-threatening injuries. Even in situations where she summoned a high voltage level with her powers,"
     "which could reach up to one billion volts depending on the opponent, she kept the amperage low."
     "Her electric attacks, nevertheless, served as a reliable means to tip the scales in her favor during a conflict."

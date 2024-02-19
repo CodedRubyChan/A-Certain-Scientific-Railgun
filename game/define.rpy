@@ -45,6 +45,7 @@ image Chapter1 Frame15 = "images/bg/Chapter1-Frame15.png"
 image Chapter1 Frame16 = "images/bg/Chapter1-Frame16.png"
 image Chapter1 Frame17 = "images/bg/Chapter1-Frame17.png"
 image Chapter1 Frame18 = "images/bg/Chapter1-Frame18.png"
+image mikotoMisaka_running01 = "images/bg/mikotoMisaka_running01.jpg"
 
 ### Video defines
 define introOpening = "videos/RailgunOpening.mpg"
@@ -61,6 +62,7 @@ define battleBGM03outro = "audio/bgm/bgm03_outro.ogg"
 define bgNoise01_cicada = "audio/bgn/BGNoise01-Cicada.ogg"
 
 ### SFX defines
+define electro_sfx01 = "audio/sfx/electro_sfx01.ogg"
 
 ### Transition defines
 define fadeLong = Fade(.5, 1, .5, color="#000000")

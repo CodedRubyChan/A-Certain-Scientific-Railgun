@@ -135,6 +135,9 @@ label ep01ch01_de:
     rowdyB "„Ich glaub‘ die Kleine brauch‘ mal etwas Nachhilfe. Komm‘ mal mit!”"
 
     "brüllte der glatzköpfige zweite Mann von links, der augenscheinlich kräftigste von allen, während er nach Mikotos Hand griff."
+
+    play sound electro_sfx01
+
     "Doch ehe er diese berühren konnte, wurde er von einem Schwall an elektronischen Funken erfasst, die sich wie scharfe Nadeln in sein Handgelenk bohrten."
     "Mit einem schmerzerfüllten Kreischen wich er zurück, während er mit seiner linken Hand seine angeschlagene rechte abstützte."
     "Neben ihm konnte sie Schreie wahrnehmen, die wild durcheinanderliefen und Bewegungen, die hektisch vollzogen wurden."
@@ -152,6 +155,9 @@ label ep01ch01_de:
     "setzte Mikoto ihren Satz in einer monotonen Stimme fort, laut genug, dass die beteiligten Männer sie hören konnten."
     "„Du…du…!“, brüllte der Mann, dessen Hand immer noch vor Schmerz vibrierte mit Tränen in den Augen, ehe er mit seinem ganzen Körpergewicht auf Mikoto zusprang,"
     "der Wucht hinter dem Sprung nach zu schließen mit der vollen Intention, sie entweder unter sich zu begraben oder die Brücke herunterzustoßen."
+
+    play sound electro_sfx01
+
     "Seine Bewegung wurde durch eine elektronische Wand, die aus Mikotos Körper strömte und sie wie einen Schutzwal umgab, abrupt unterbrochen."
     "Die dabei entstehenden Funken schlängelten sich kreisförmig an die Spitze der nahegelegenen Straßenlaternen und verursachten einen Kurzschluss."
     "Hinter sich nahm Mikoto lautes Hupen und das Quietschen von Bremsen wahr, doch hatte sie im Moment keine Zeit, sich damit zu beschäftigen, jetzt, wo sie sich endlich entschieden hatte, den Rowdys neben ihr ihre Aufmerksamkeit zu schenken."
@@ -191,6 +197,10 @@ label ep01ch01_de:
     "Und wenn sie das nicht tun würde und die Kerle entkommen, was dann? Was ist, wenn sie das nächste Mal ein Mädchen belästigen, das sich nicht wehren kann?"
     "Alleine während ihres zweiten Mittelstufenjahrs musste Mikoto bereits sechs Situationen klären, in welcher eine Horde Männer Neuankömmlinge an ihrer Mädchenschule belästigt hatten."
     "Konnte sie das Risiko wirklich eingehen, wenn sie doch in der Lage wäre, hier und jetzt zu helfen? Sie atmete tief durch Mund und Nase ein und schloss ihre Augen."
+
+    show mikotoMisaka_running01 with fadeLong
+    play sound electro_sfx01
+
     "{i}Zack.{/i} Einen Sekundenschlag später riss sie ihre Lider auf und setzte zum Sprint an. Von Elektrofunken umgeben raste sie die steinerne Brücke herunter als würden weder Luftwiderstand noch Schwerkraft existieren."
     "Trotz des Spektakels waren ihre Elektrofunken noch nicht einmal nötig, um ihr Geschwindigkeitslevel zu erreichen."
     "Bereits als Kind war sie viel und gerne zu jeder erdenklichen Situation gerannt, wodurch sie bis in ihr Jugendalter eine ausgereifte Kondition entwickelt hatte."
@@ -198,10 +208,15 @@ label ep01ch01_de:
     "auch wenn sie anders als ihre Zimmergenossin beispielsweise nie gezieltes Kampftraining erhalten hatte."
     "Mit rasanten Schritten schloss sie die Kluft zwischen sich und den flüchtenden Machos, welche bereits bemerkt hatten, dass Mikoto die Verfolgung aufgenommen hatte."
     
+    # hide mikotoMisaka_running01 
+    # BILD TRANSITION FEHLERHAFT - MUSST DU IRGENDWANN NOCHMAL CHECKEN
     show Chapter1 Frame12 with fadeLong:
         zoom 1.5
     
     "Mit etwas, was sie nur als einen panischen Gesichtsausdruck vernehmen konnte, flüchteten sie in einer der engen Häuserreihen direkt unterhalb der Brücke."
+
+    play sound electro_sfx01
+    
     "Mit einem Satz stieß sich Mikoto von jener ab und machte sich die elektromagnetischen Felder an den Häusern zunutze, um sich galant entlang der Wände in die Gassen hineinzuschwingen."
     "Bei einem Blick in diese merkte sie schnell, dass sie komplett ausgeleuchtet waren."
     "Die Sonne, deren Dämmerung sie zuvor noch beobachtet hatte, ehe sie von den Rowdys unterbrochen wurde, muss mittlerweile vollständig aufgegangen sein."
@@ -235,6 +250,9 @@ label ep01ch01_de:
     "Mikoto beugte ihre Handfläche hinter ihren Hinterkopf und fuhr mit einer rasanten Bewegung durch ihre schulterlangen Haare."
     "Von den Männern, die sie eben angegriffen hatten, war außer einem schmerzenden Stöhnen nichts mehr zu vernehmen."
     "Sie machte ein paar Schritte zurück, um auch diejenigen im Blick zu haben, welche ihr von hinten aufgelauert waren. Insgesamt lagen vor ihr vier Männer, die aufgrund der hohen elektrischen Ladung vor sich hinbrutzelten."
+    
+    play sound electro_sfx01
+    
     "Natürlich vermied sie es, diese lebensgefährlich zu verletzen. Selbst in Situationen, in denen sie mit ihren Kräften eine hohe Voltanzahl –"
     "diese konnte sie je nach Gegner auf bis zu eine Milliarde Volt steigern – heraufbeschwor, hielt sie Ampereanzahl gleichzeitig gering."
     "Ihre Elektroattacken waren für sie nichtsdestotrotz ein probates Mittel, um einen Konflikt für sich zu entscheiden."
