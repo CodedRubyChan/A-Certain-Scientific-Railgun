@@ -38,7 +38,7 @@ define gui.show_name = True
 
 ## Die Version des Spiels.
 
-define config.version = "0.0.2-1"
+define config.version = "0.0.2-2"
 
 
 ## Text, der auf dem Info-Bildschirm des Spiels erscheint. Setzen Sie den Text
@@ -254,25 +254,25 @@ init python:
 
     # Build Archive - Base DE
     build.archive('base_de_scripts', 'all')
-    build.classify('game/de_scripts_ep00/**', 'base_de_scripts')
+    build.classify('game/de_scripts/**', 'base_de_scripts')
 
     # Build Archive - Base DE - Files
 
     # Build Archive - Base EN
     build.archive('base_en_scripts', 'all')
-    build.classify('game/en_scripts_ep00/**', 'base_en_scripts')
+    build.classify('game/en_scripts/**', 'base_en_scripts')
 
     # Build Archive - Base EN - Files
 
     # Build Archive - Episode 1 DE
-    build.archive('ep01_de_scripts', 'all')
-    build.classify('game/de_scripts_ep01/**', 'ep01_de_scripts')
+    # build.archive('ep01_de_scripts', 'all')
+    # build.classify('game/de_scripts_ep01/**', 'ep01_de_scripts')
 
     # Build Archive - Episode 1 DE - Files
 
     # Build Archive - Episode 1 EN
-    build.archive('ep01_en_scripts', 'all')
-    build.classify('game/en_scripts_ep01/**', 'ep01_en_scripts')
+    # build.archive('ep01_en_scripts', 'all')
+    # build.classify('game/en_scripts_ep01/**', 'ep01_en_scripts')
 
     # Build Archive - Episode 1 EN - Files
 

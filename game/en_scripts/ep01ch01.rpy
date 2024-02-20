@@ -4,11 +4,11 @@
 ##### [queue music "loop.ogg" loop=True]
 ##### “ ”
 
-label ep01ch01_en_intro:
-    stop music
+# label ep01ch01_en_intro:
+    # stop music
     # $ renpy.movie_cutscene(episode1_de_intro)
 
-    jump ep01ch01_en
+    # jump ep01ch01_en
 
 label ep01ch01_en:
     $ save_name = ep01ch01_en_save
@@ -326,4 +326,5 @@ label ep01ch01_en:
 
     "PLATZHALTER" "PLATZHALTER LOL"
 
+    jump ep01ch02_en
     return

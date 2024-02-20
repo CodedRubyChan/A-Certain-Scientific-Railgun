@@ -5,11 +5,11 @@
 ##### „ ”
 
 
-label ep01ch01_de_intro:
-    stop music
+# label ep01ch01_de_intro:
+    # stop music
     # $ renpy.movie_cutscene(episode1_de_intro)
 
-    jump ep01ch01_de
+    # jump ep01ch01_de
 
 label ep01ch01_de:
     $ save_name = ep01ch01_de_save
@@ -330,4 +330,5 @@ label ep01ch01_de:
 
     "PLATZHALTER" "PLATZHALTER LOL"
 
+    jump ep01ch02_de
     return
